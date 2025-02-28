@@ -1,0 +1,1 @@
+.sf plugins/stalker-game.js
